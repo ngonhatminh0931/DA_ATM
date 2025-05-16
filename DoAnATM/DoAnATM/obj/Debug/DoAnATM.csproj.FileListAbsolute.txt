@@ -1,0 +1,11 @@
+F:\DA-ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.csproj.AssemblyReference.cache
+F:\DA-ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.Flayfair.resources
+F:\DA-ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.Properties.Resources.resources
+F:\DA-ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.csproj.GenerateResource.cache
+F:\DA-ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.csproj.CoreCompileInputs.cache
+F:\DA-ATM\DoAnATM\DoAnATM\bin\Debug\DoAnATM.exe.config
+F:\DA-ATM\DoAnATM\DoAnATM\bin\Debug\DoAnATM.exe
+F:\DA-ATM\DoAnATM\DoAnATM\bin\Debug\DoAnATM.pdb
+F:\DA-ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.exe
+F:\DA-ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.pdb
+F:\DA-ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.Control.resources
