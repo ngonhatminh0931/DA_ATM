@@ -20,3 +20,14 @@ F:\datam\DoAnATM\DoAnATM\obj\Debug\DoAnATM.csproj.GenerateResource.cache
 F:\datam\DoAnATM\DoAnATM\obj\Debug\DoAnATM.csproj.CoreCompileInputs.cache
 F:\datam\DoAnATM\DoAnATM\obj\Debug\DoAnATM.exe
 F:\datam\DoAnATM\DoAnATM\obj\Debug\DoAnATM.pdb
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\bin\Debug\DoAnATM.exe.config
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\bin\Debug\DoAnATM.exe
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\bin\Debug\DoAnATM.pdb
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.csproj.AssemblyReference.cache
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.Control.resources
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.Flayfair.resources
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.Properties.Resources.resources
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.csproj.GenerateResource.cache
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.csproj.CoreCompileInputs.cache
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.exe
+F:\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Debug\DoAnATM.pdb

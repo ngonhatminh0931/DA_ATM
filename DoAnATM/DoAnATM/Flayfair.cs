@@ -28,7 +28,7 @@ namespace DoAnATM
             return text.Any(char.IsDigit);
         }
 
-        private void GenerateMatrix(string key, bool use6x6)//Tạo ma trận flayfair từ key
+        private void GenerateMatrix(string key, bool use6x6)
         {
             size = use6x6 ? 6 : 5;
             matrix = new char[size, size];
@@ -152,7 +152,7 @@ namespace DoAnATM
 
         private string Encrypt(string text, string key)
         {
-            bool use6x6 = ContainsDigit(text);
+            bool use6x6 = radioButton_6x6.Checked;
             GenerateMatrix(key, use6x6);
             List<(char, char)> digraphs = PreprocessText(text, use6x6);
 
@@ -194,7 +194,7 @@ namespace DoAnATM
 
         private string Decrypt(string cipherText, string key)
         {
-            bool use6x6 = ContainsDigit(cipherText);
+            bool use6x6 = radioButton_6x6.Checked;
             GenerateMatrix(key, use6x6);
             List<(char, char)> digraphs = PreprocessText(cipherText, use6x6);
 
@@ -306,7 +306,7 @@ namespace DoAnATM
             {
                 if (control is TextBox)
                 {
-                    TextBox txt = (TextBox)control; // Ép kiểu tường minh
+                    TextBox txt = (TextBox)control;
                     txt.Text = (index < keyString.Count) ? keyString[index].ToString() : "";
                     index++;
                 }

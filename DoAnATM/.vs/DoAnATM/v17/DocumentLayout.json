@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\datam\\DoAnATM\\",
+  "WorkspaceRootPath": "F:\\Desktop\\DA_ATM\\DoAnATM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|f:\\datam\\doanatm\\doanatm\\flayfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|f:\\desktop\\da_atm\\doanatm\\doanatm\\flayfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\flayfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|f:\\desktop\\da_atm\\doanatm\\doanatm\\flayfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\flayfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Flayfair.cs [Design]",
-              "DocumentMoniker": "F:\\datam\\DoAnATM\\DoAnATM\\Flayfair.cs",
+              "Title": "Flayfair.cs",
+              "DocumentMoniker": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Flayfair.cs",
               "RelativeDocumentMoniker": "DoAnATM\\Flayfair.cs",
-              "ToolTip": "F:\\datam\\DoAnATM\\DoAnATM\\Flayfair.cs [Design]",
+              "ToolTip": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Flayfair.cs",
+              "RelativeToolTip": "DoAnATM\\Flayfair.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwFAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:36:00.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flayfair.cs [Design]",
+              "DocumentMoniker": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Flayfair.cs",
+              "RelativeDocumentMoniker": "DoAnATM\\Flayfair.cs",
+              "ToolTip": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Flayfair.cs [Design]",
               "RelativeToolTip": "DoAnATM\\Flayfair.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T12:02:31.756Z",
