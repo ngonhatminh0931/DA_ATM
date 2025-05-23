@@ -52,11 +52,11 @@
     <Compile Include="Control.Designer.cs">
       <DependentUpon>Control.cs</DependentUpon>
     </Compile>
-    <Compile Include="Flayfair.cs">
+    <Compile Include="Playfair.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Flayfair.Designer.cs">
-      <DependentUpon>Flayfair.cs</DependentUpon>
+    <Compile Include="Playfair.Designer.cs">
+      <DependentUpon>Playfair.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -69,8 +69,8 @@
     <EmbeddedResource Include="Control.resx">
       <DependentUpon>Control.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Flayfair.resx">
-      <DependentUpon>Flayfair.cs</DependentUpon>
+    <EmbeddedResource Include="Playfair.resx">
+      <DependentUpon>Playfair.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -80,7 +80,11 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="RSA.resx">
+      <DependentUpon>RSA.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -93,6 +97,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Black Tech Modern Cyber Security Presentation.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

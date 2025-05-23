@@ -19,7 +19,7 @@ namespace DoAnATM
 
         private void button_Flayfair_Click(object sender, EventArgs e)
         {
-            Form form = new Flayfair();
+            Form form = new Playfair();
             form.Show();
         }
 
@@ -28,5 +28,12 @@ namespace DoAnATM
             Form form = new RSA();
             form.Show();
         }
+        protected override void OnShown(EventArgs e)
+        {
+            base.OnShown(e);
+            this.ActiveControl = null; 
+        }
+
+
     }
 }
