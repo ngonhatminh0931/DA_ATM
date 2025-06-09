@@ -11,3 +11,15 @@ D:\ASUS\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.csproj.CoreCompileInp
 D:\ASUS\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.exe
 D:\ASUS\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.pdb
 D:\ASUS\Desktop\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.exe.config
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\bin\Release\DoAnATM.exe.config
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\bin\Release\DoAnATM.exe
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\bin\Release\DoAnATM.pdb
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.csproj.AssemblyReference.cache
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.Control.resources
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.Playfair.resources
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.Properties.Resources.resources
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.RSA.resources
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.csproj.GenerateResource.cache
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.csproj.CoreCompileInputs.cache
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.exe
+D:\ASUS\Desktop\DA_ATM\DA_ATM\DoAnATM\DoAnATM\obj\Release\DoAnATM.pdb
