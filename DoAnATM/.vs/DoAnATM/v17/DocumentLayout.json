@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\",
+  "WorkspaceRootPath": "F:\\Desktop\\DA_ATM\\DoAnATM\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\doanatm\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|d:\\asus\\desktop\\da_atm\\doanatm\\doanatm\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|f:\\desktop\\da_atm\\doanatm\\doanatm\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|f:\\desktop\\da_atm\\doanatm\\doanatm\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|F:\\Desktop\\DA_ATM\\DoAnATM\\doanatm\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|F:\\Desktop\\DA_ATM\\DoAnATM\\doanatm\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|f:\\desktop\\da_atm\\doanatm\\doanatm\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> a9254d1409cebda4483ba053e52069b55db4254f
       "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\doanatm\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\rsa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|F:\\Desktop\\DA_ATM\\DoAnATM\\doanatm\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808C3864-D905-4D07-A996-05057A3D1314}|DoAnATM\\DoAnATM.csproj|solutionrelative:doanatm\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +42,10 @@
       "DocumentGroups": [
         {
           "DockedHeight": 341,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
+<<<<<<< HEAD
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -35,27 +56,76 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+=======
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playfair.cs",
+              "DocumentMoniker": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Playfair.cs",
+              "RelativeDocumentMoniker": "DoAnATM\\Playfair.cs",
+              "ToolTip": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Playfair.cs",
+              "RelativeToolTip": "DoAnATM\\Playfair.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:17:30.559Z",
+              "EditorCaption": ""
+>>>>>>> a9254d1409cebda4483ba053e52069b55db4254f
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
+=======
+              "Title": "Playfair.cs [Design]",
+              "DocumentMoniker": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Playfair.cs",
+              "RelativeDocumentMoniker": "DoAnATM\\Playfair.cs",
+              "ToolTip": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Playfair.cs [Design]",
+              "RelativeToolTip": "DoAnATM\\Playfair.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:10:56.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DoAnATM\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "DoAnATM\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+>>>>>>> a9254d1409cebda4483ba053e52069b55db4254f
               "Title": "RSA.cs",
-              "DocumentMoniker": "D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.cs",
+              "DocumentMoniker": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.cs",
               "RelativeDocumentMoniker": "DoAnATM\\RSA.cs",
-              "ToolTip": "D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.cs",
+              "ToolTip": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.cs",
               "RelativeToolTip": "DoAnATM\\RSA.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAALgAAAAAAAAAAAAUwNQAAAATAAAAAAAAAA==",
+=======
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+>>>>>>> a9254d1409cebda4483ba053e52069b55db4254f
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T09:46:47.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 3,
+>>>>>>> a9254d1409cebda4483ba053e52069b55db4254f
               "Title": "RSA.cs [Design]",
-              "DocumentMoniker": "D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.cs",
+              "DocumentMoniker": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.cs",
               "RelativeDocumentMoniker": "DoAnATM\\RSA.cs",
-              "ToolTip": "D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.cs [Design]",
+              "ToolTip": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.cs [Design]",
               "RelativeToolTip": "DoAnATM\\RSA.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T09:44:56.834Z",
@@ -65,14 +135,15 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RSA.Designer.cs",
-              "DocumentMoniker": "D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.Designer.cs",
+              "DocumentMoniker": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.Designer.cs",
               "RelativeDocumentMoniker": "DoAnATM\\RSA.Designer.cs",
-              "ToolTip": "D:\\ASUS\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.Designer.cs",
+              "ToolTip": "F:\\Desktop\\DA_ATM\\DoAnATM\\DoAnATM\\RSA.Designer.cs",
               "RelativeToolTip": "DoAnATM\\RSA.Designer.cs",
-              "ViewState": "AgIAAEcDAAAAAAAAAAAswFoDAAAPAAAAAAAAAA==",
+              "ViewState": "AQIAAMYDAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T16:33:08.239Z",
               "EditorCaption": ""
+<<<<<<< HEAD
             }
           ]
         },
@@ -83,6 +154,8 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+=======
+>>>>>>> a9254d1409cebda4483ba053e52069b55db4254f
             }
           ]
         }

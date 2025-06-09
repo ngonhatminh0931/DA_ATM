@@ -62,7 +62,7 @@
             this.textBox_Key.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.textBox_Key.Location = new System.Drawing.Point(166, 417);
             this.textBox_Key.Name = "textBox_Key";
-            this.textBox_Key.Size = new System.Drawing.Size(297, 44);
+            this.textBox_Key.Size = new System.Drawing.Size(297, 34);
             this.textBox_Key.TabIndex = 3;
             this.textBox_Key.TextChanged += new System.EventHandler(this.textBox_Key_TextChanged);
             // 
@@ -72,9 +72,9 @@
             this.label_Key.BackColor = System.Drawing.Color.Transparent;
             this.label_Key.Font = new System.Drawing.Font("Microsoft YaHei", 14.14286F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Key.ForeColor = System.Drawing.Color.MediumTurquoise;
-            this.label_Key.Location = new System.Drawing.Point(80, 417);
+            this.label_Key.Location = new System.Drawing.Point(82, 420);
             this.label_Key.Name = "label_Key";
-            this.label_Key.Size = new System.Drawing.Size(84, 45);
+            this.label_Key.Size = new System.Drawing.Size(59, 31);
             this.label_Key.TabIndex = 2;
             this.label_Key.Text = "Key";
             // 
@@ -84,9 +84,9 @@
             this.label_Message.BackColor = System.Drawing.Color.Transparent;
             this.label_Message.Font = new System.Drawing.Font("Microsoft YaHei", 14.14286F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Message.ForeColor = System.Drawing.Color.MediumTurquoise;
-            this.label_Message.Location = new System.Drawing.Point(7, 197);
+            this.label_Message.Location = new System.Drawing.Point(20, 197);
             this.label_Message.Name = "label_Message";
-            this.label_Message.Size = new System.Drawing.Size(172, 45);
+            this.label_Message.Size = new System.Drawing.Size(121, 31);
             this.label_Message.TabIndex = 0;
             this.label_Message.Text = "Message";
             // 
@@ -98,7 +98,7 @@
             this.label_KeyMatrix.ForeColor = System.Drawing.Color.MediumTurquoise;
             this.label_KeyMatrix.Location = new System.Drawing.Point(613, 14);
             this.label_KeyMatrix.Name = "label_KeyMatrix";
-            this.label_KeyMatrix.Size = new System.Drawing.Size(207, 45);
+            this.label_KeyMatrix.Size = new System.Drawing.Size(146, 31);
             this.label_KeyMatrix.TabIndex = 5;
             this.label_KeyMatrix.Text = "Key Matrix";
             // 
@@ -121,7 +121,7 @@
             this.label_Result.ForeColor = System.Drawing.Color.MediumTurquoise;
             this.label_Result.Location = new System.Drawing.Point(971, 15);
             this.label_Result.Name = "label_Result";
-            this.label_Result.Size = new System.Drawing.Size(127, 45);
+            this.label_Result.Size = new System.Drawing.Size(90, 31);
             this.label_Result.TabIndex = 6;
             this.label_Result.Text = "Result";
             // 
@@ -185,7 +185,7 @@
             this.radioButton_6x6.ForeColor = System.Drawing.Color.MediumTurquoise;
             this.radioButton_6x6.Location = new System.Drawing.Point(750, 413);
             this.radioButton_6x6.Name = "radioButton_6x6";
-            this.radioButton_6x6.Size = new System.Drawing.Size(115, 54);
+            this.radioButton_6x6.Size = new System.Drawing.Size(86, 40);
             this.radioButton_6x6.TabIndex = 29;
             this.radioButton_6x6.TabStop = true;
             this.radioButton_6x6.Text = "6x6";
@@ -199,7 +199,7 @@
             this.radioButton_5x5.ForeColor = System.Drawing.Color.MediumTurquoise;
             this.radioButton_5x5.Location = new System.Drawing.Point(750, 344);
             this.radioButton_5x5.Name = "radioButton_5x5";
-            this.radioButton_5x5.Size = new System.Drawing.Size(115, 54);
+            this.radioButton_5x5.Size = new System.Drawing.Size(86, 40);
             this.radioButton_5x5.TabIndex = 28;
             this.radioButton_5x5.TabStop = true;
             this.radioButton_5x5.Text = "5x5";
@@ -214,7 +214,7 @@
             this.label_Tittle.ForeColor = System.Drawing.Color.MediumTurquoise;
             this.label_Tittle.Location = new System.Drawing.Point(12, 5);
             this.label_Tittle.Name = "label_Tittle";
-            this.label_Tittle.Size = new System.Drawing.Size(393, 224);
+            this.label_Tittle.Size = new System.Drawing.Size(280, 160);
             this.label_Tittle.TabIndex = 34;
             this.label_Tittle.Text = "Playfair \r\nCipher";
             // 
@@ -238,6 +238,7 @@
             this.Controls.Add(this.label_Key);
             this.Controls.Add(this.textBox_Message);
             this.Controls.Add(this.label_Message);
+            this.DoubleBuffered = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Playfair";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

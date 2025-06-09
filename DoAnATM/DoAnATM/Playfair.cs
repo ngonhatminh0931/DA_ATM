@@ -316,7 +316,7 @@ namespace DoAnATM
         private void textBox_Key_TextChanged(object sender, EventArgs e)
         {
             textBox_Key.KeyPress += textBox_Key_AllowLettersAndNumbers;
-            bool use6x6 = textBox_Key.Text.Any(char.IsDigit);
+            bool use6x6 = radioButton_6x6.Checked;
             GenerateMatrix(textBox_Key.Text, use6x6);
         }
 
@@ -361,7 +361,6 @@ namespace DoAnATM
         {
             if (radioButton_5x5.Checked)
             {
-                textBox_Key.Text = new string(textBox_Key.Text.Where(ch => char.IsLetter(ch) && ch != 'J').ToArray());
                 textBox_Key.KeyPress -= textBox_Key_AllowLettersAndNumbers;
                 textBox_Key.KeyPress += textBox_Key_AllowOnlyLetters;
                 textBox_Message.KeyPress -= textBox_Message_AllowLettersAndNumbers;
