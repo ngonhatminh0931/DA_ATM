@@ -41,7 +41,6 @@
             this.txt_output_en_chuoi = new System.Windows.Forms.TextBox();
             this.btn_en = new System.Windows.Forms.Button();
             this.label_output_en = new System.Windows.Forms.Label();
-            this.txt_output_en = new System.Windows.Forms.TextBox();
             this.label_input_en = new System.Windows.Forms.Label();
             this.txt_input_en = new System.Windows.Forms.TextBox();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
@@ -213,7 +212,6 @@
             this.groupBox_Encryption.Controls.Add(this.txt_output_en_chuoi);
             this.groupBox_Encryption.Controls.Add(this.btn_en);
             this.groupBox_Encryption.Controls.Add(this.label_output_en);
-            this.groupBox_Encryption.Controls.Add(this.txt_output_en);
             this.groupBox_Encryption.Controls.Add(this.label_input_en);
             this.groupBox_Encryption.Controls.Add(this.txt_input_en);
             this.groupBox_Encryption.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
@@ -228,7 +226,7 @@
             // txt_output_en_chuoi
             // 
             this.txt_output_en_chuoi.Font = new System.Drawing.Font("Microsoft YaHei", 9.857143F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_output_en_chuoi.Location = new System.Drawing.Point(122, 309);
+            this.txt_output_en_chuoi.Location = new System.Drawing.Point(122, 286);
             this.txt_output_en_chuoi.Name = "txt_output_en_chuoi";
             this.txt_output_en_chuoi.Size = new System.Drawing.Size(601, 38);
             this.txt_output_en_chuoi.TabIndex = 9;
@@ -251,19 +249,11 @@
             this.label_output_en.BackColor = System.Drawing.Color.Transparent;
             this.label_output_en.Font = new System.Drawing.Font("Microsoft YaHei", 9.857143F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_output_en.ForeColor = System.Drawing.Color.MediumTurquoise;
-            this.label_output_en.Location = new System.Drawing.Point(6, 248);
+            this.label_output_en.Location = new System.Drawing.Point(6, 285);
             this.label_output_en.Name = "label_output_en";
             this.label_output_en.Size = new System.Drawing.Size(102, 31);
             this.label_output_en.TabIndex = 6;
             this.label_output_en.Text = "Output";
-            // 
-            // txt_output_en
-            // 
-            this.txt_output_en.Font = new System.Drawing.Font("Microsoft YaHei", 9.857143F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_output_en.Location = new System.Drawing.Point(122, 248);
-            this.txt_output_en.Name = "txt_output_en";
-            this.txt_output_en.Size = new System.Drawing.Size(601, 38);
-            this.txt_output_en.TabIndex = 5;
             // 
             // label_input_en
             // 
@@ -986,7 +976,6 @@
         private System.Windows.Forms.Button btn_cal;
         private System.Windows.Forms.Button btn_en;
         private System.Windows.Forms.Label label_output_en;
-        private System.Windows.Forms.TextBox txt_output_en;
         private System.Windows.Forms.Label label_input_en;
         private System.Windows.Forms.TextBox txt_input_en;
         private System.Windows.Forms.Button btn_de;

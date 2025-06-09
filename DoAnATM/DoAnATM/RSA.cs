@@ -206,11 +206,11 @@ namespace DoAnATM
 
                     long ciphertext = ModPow(m, mmh_e, n);
 
-                    encryptedChars.Add((char)ciphertext);
+                   // encryptedChars.Add((char)ciphertext);
                     encryptedNumbers.Add(ciphertext.ToString()); 
                 }
 
-                txt_output_en.Text = new string(encryptedChars.ToArray());
+                // txt_output_en.Text = new string(encryptedChars.ToArray());
                 txt_output_en_chuoi.Text = string.Join(" ", encryptedNumbers); 
 
                 MessageBox.Show("Mã hóa thành công!", "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
